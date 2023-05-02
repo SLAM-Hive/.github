@@ -20,7 +20,7 @@ If you use SLAM-Hive in an academic work, please cite:
     @article{
       title={The SLAM Hive Benchmarking Suite},
       author={Yang, Y., B. Xu, Y. Li, and S. Schwertfeger.},
-      conference={Robotics and Automation},
+      conference={IEEE International Conference on Robotics and Automation},
       year={2023}
      }
 
