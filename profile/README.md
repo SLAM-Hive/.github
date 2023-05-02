@@ -8,7 +8,7 @@ The system is based on Docker container. The use of container technology provide
 
 In the future, SLAM-Hive will be deployed to the cluster to explore the broad parameter space of SLAM algorithm. We will also provide a user management system and more evaluation methods and metrics, as well as other follow-up improvements.
 
-<img src="https://github.com/SLAM-Hive/slam_hive_web/blob/main/pictures/Poster.png" width="1620" height="1080" border="10" />
+<img src="https://github.com/SLAM-Hive/slam_hive_web/blob/main/pictures/Poster.png"  border="10" />
 
 # 1. License
 The source code is released under GPLv3 license.
