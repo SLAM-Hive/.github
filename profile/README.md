@@ -17,10 +17,10 @@ We are still working on improving the code reliability. For any technical issues
 
 If you use SLAM-Hive in an academic work, please cite:
 
-    @article{
+    @inproceedings{
       title={The SLAM Hive Benchmarking Suite},
-      author={Yang, Y., B. Xu, Y. Li, and S. Schwertfeger.},
-      conference={IEEE International Conference on Robotics and Automation},
+      author={Yang, Yuanyuan and Xu, Bowen and Li, Yinjie and Schwertfeger, S{\"o}ren},
+      booktitle={2023 IEEE international conference on robotics and automation (ICRA)},
       year={2023}
      }
 
