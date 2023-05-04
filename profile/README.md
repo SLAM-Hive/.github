@@ -11,7 +11,7 @@ In the future, SLAM-Hive will be deployed to the cluster to explore the broad pa
 <img src="https://github.com/SLAM-Hive/slam_hive_web/blob/main/pictures/Poster.png"  border="10" />
 
 # 1. License
-The source code is released under GPLv3 license.
+The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 
 We are still working on improving the code reliability. For any technical issues, you can make an issue.
 
