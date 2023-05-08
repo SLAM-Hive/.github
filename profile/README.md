@@ -10,10 +10,14 @@ In the future, SLAM-Hive will be deployed to the cluster to explore the broad pa
 
 <img src="https://github.com/SLAM-Hive/slam_hive_web/blob/main/pictures/Poster.png"  border="10" />
 
+The paper have published in 2023 IEEE international conference on robotics and automation (ICRA), you can see it <a href="arxiv.org/abs/2303.11854">here</a>
+
 # 1. License
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 
 We are still working on improving the code reliability. For any technical issues, you can make an issue.
+
+Basic information of the paper: <a href="https://robotics.shanghaitech.edu.cn/publications?f%5Bauthor%5D=131">click here</a>
 
 If you use SLAM-Hive in an academic work, please cite:
 
