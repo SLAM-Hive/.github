@@ -6,20 +6,20 @@ SLAM Hive is a project to enable the systematic, repeatable and reproducable eva
 
 The system is based on Docker container. The use of container technology provides strong expansibility and flexibility for this system. The configuration parameters of mapping tasks and their evaluation results are recorded in the database. Then we can analyze the historical tasks and their corresponding parameter values in detail.
 
-In the future, SLAM-Hive will be deployed to the cluster to explore the broad parameter space of SLAM algorithm. We will also provide a user management system and more evaluation methods and metrics, as well as other follow-up improvements.
+We are working on enable SLAM-Hive to be deployed to clusters to explore the broad parameter space of SLAM algorithms. We will also provide a user management system and more evaluation methods and metrics, as well as other follow-up improvements.
 
 <img src="https://github.com/SLAM-Hive/slam_hive_web/blob/main/pictures/Poster.png"  border="10" />
 
-The paper have published in 2023 IEEE international conference on robotics and automation (ICRA), you can see it <a href="arxiv.org/abs/2303.11854">here</a>
+The paper will be published at the 2023 IEEE international conference on robotics and automation (ICRA) and is available on arxiv: <a href="https://arxiv.org/abs/2303.11854">here</a>
 
 # 1. License
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 
 We are still working on improving the code reliability. For any technical issues, you can make an issue.
 
-Basic information of the paper: <a href="https://robotics.shanghaitech.edu.cn/publications?f%5Bauthor%5D=131">click here</a>
-
 If you use SLAM-Hive in an academic work, please cite:
+
+Yang, Yaxun, Bowen Xu, Yinjie Li, and Sören Schwertfeger,  "The SLAM Hive Benchmarking Suite",  Robotics and Automation (ICRA), 2023 IEEE International Conference on, 2023 (in Press).
 
     @inproceedings{
       title={The SLAM Hive Benchmarking Suite},
