@@ -10,7 +10,9 @@ We are working on enable SLAM-Hive to be deployed to clusters to explore the bro
 
 <img src="https://github.com/SLAM-Hive/slam_hive_web/blob/main/pictures/Poster.png"  border="10" />
 
-The paper will be published at the 2023 IEEE international conference on robotics and automation (ICRA) and is available on arxiv: <a href="https://arxiv.org/abs/2303.11854">here</a>
+The paper was published at the 2023 IEEE international conference on robotics and automation (ICRA) and is available on arxiv: <a href="https://arxiv.org/abs/2303.11854">here</a>
+
+Also 2024 Journal preprint (arXiv PDF): <a href="https://arxiv.org/abs/2303.11854">here</a>
 
 # 1. License
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
@@ -19,7 +21,7 @@ We are still working on improving the code reliability. For any technical issues
 
 If you use SLAM-Hive in an academic work, please cite:
 
-Yang, Yaxun, Bowen Xu, Yinjie Li, and Sören Schwertfeger,  "The SLAM Hive Benchmarking Suite",  Robotics and Automation (ICRA), 2023 IEEE International Conference on, 2023 (in Press).
+Yang, Yaxun, Bowen Xu, Yinjie Li, and Sören Schwertfeger,  "The SLAM Hive Benchmarking Suite",  Robotics and Automation (ICRA), 2023 IEEE International Conference on, 2023.
 
     @inproceedings{
       title={The SLAM Hive Benchmarking Suite},
@@ -27,6 +29,17 @@ Yang, Yaxun, Bowen Xu, Yinjie Li, and Sören Schwertfeger,  "The SLAM Hive Bench
       booktitle={2023 IEEE international conference on robotics and automation (ICRA)},
       year={2023}
      }
+2024 Journal preprint (arXiv PDF): 
+
+    @misc{yang2023slamhivebenchmarkingsuite,
+      title={The SLAM Hive Benchmarking Suite}, 
+      author={Yuanyuan Yang and Bowen Xu and Yinjie Li and Sören Schwertfeger},
+      year={2023},
+      eprint={2303.11854},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2303.11854}, 
+    }
 
 # 2. How to use
 The repositories in project are divided into four parts.
