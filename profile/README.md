@@ -31,15 +31,15 @@ Yang, Yaxun, Bowen Xu, Yinjie Li, and Sören Schwertfeger,  "The SLAM Hive Bench
      }
 2024 Journal preprint (arXiv PDF): 
 
-@misc{liu2024benchmarkingslamalgorithmscloud,
-      title={Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive Benchmarking Suite}, 
-      author={Xinzhe Liu and Yuanyuan Yang and Bowen Xu and Delin Feng and Sören Schwertfeger},
-      year={2024},
-      eprint={2406.17586},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2406.17586}, 
-}
+    @misc{liu2024benchmarkingslamalgorithmscloud,
+          title={Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive Benchmarking Suite}, 
+          author={Xinzhe Liu and Yuanyuan Yang and Bowen Xu and Delin Feng and Sören Schwertfeger},
+          year={2024},
+          eprint={2406.17586},
+          archivePrefix={arXiv},
+          primaryClass={cs.RO},
+          url={https://arxiv.org/abs/2406.17586}, 
+    }
 
 # 2. How to use
 The repositories in project are divided into four parts.
