@@ -51,3 +51,17 @@ The repository <a href="https://github.com/SLAM-Hive/slam_hive_datasets">slam_hi
 The repository <a href="https://github.com/SLAM-Hive/slam_hive_results">slam_hive_results</a> stores the evaluation results which we ran and evaluated when testing.
 
 Other repositories like **orb-slam2-ros-mono** stores the scripts and related files of how to build the algorithm docker image.
+
+# 3. SLAM-Hive repo overview
+
+Our group contains some repos, mainly about:
+ - slam_hive_web
+	 -  The website repo. We introduce the code details in <https://github.com/SLAM-Hive/slam_hive_web/blob/main/README.md>.
+ - slam_hive_controller
+	 - This is a middle controller module of SLAM Hive, using mainly in cluster and aliyun modes. This module is also used for dataset pre-processing. We introduce the code details in <https://github.com/SLAM-Hive/slam_hive_controller/blob/main/README.md>.
+ - algorithms
+	 - Group has many algorithm containers repo, for example: orb-slam2-ros-mono；Each repo can be used to build an image 
+ - slam_hive_datasets
+	 -  In slam_hive_datasets, we offer the dataset downloading script and rorbag replay script for each supported dataset.
+ - slam_hive_results
+	 - This repo has our ICRA 2023 experiments; Our journal paper experiments can be downloaded at <http://robotics.shanghaitech.edu.cn/static/datasets/SLAM-Hive/SLAM-Hive_archive.zip>
