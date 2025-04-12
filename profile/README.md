@@ -1,5 +1,5 @@
 # SLAM-Hive
-**Author**: Yuanyuan Yang, Bowen Xu, Yinjie Li and Sören Schwertfeger
+**Author**: Xinzhe Liu, Yuanyuan Yang, Bowen Xu, Delin Feng and Sören Schwertfeger
 
 
 SLAM Hive is a project to enable the systematic, repeatable and reproducable evaluation of SLAM (Simultaneous Localization and Mapping) algorithms. It owns Web graphical user interface, comprehensive evaluation index, user-defined configuration, performance analysis and strong expansibility.
