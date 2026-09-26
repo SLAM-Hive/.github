@@ -1,8 +1,8 @@
 # SLAM-Hive
-**Author**: Xinzhe Liu, Yuanyuan Yang, Bowen Xu, Delin Feng and Sören Schwertfeger
+**Contributors**: Xinzhe Liu, Yuanyuan Yang, Bowen Xu, Delin Feng, Yuxuan Feng and Sören Schwertfeger
 
 
-SLAM Hive is a project to enable the systematic, repeatable and reproducable evaluation of SLAM (Simultaneous Localization and Mapping) algorithms. It owns Web graphical user interface, comprehensive evaluation index, user-defined configuration, performance analysis and strong expansibility.
+SLAM Hive is a project to enable the systematic, repeatable, and reproducible evaluation of SLAM (Simultaneous Localization and Mapping) algorithms, and it supports cross-version interoperability between ROS 1/ROS 2 algorithms and dataset bags. It owns Web graphical user interface, comprehensive evaluation index, user-defined configuration, performance analysis and strong expansibility.
 
 The system is based on Docker container. The use of container technology provides strong expansibility and flexibility for this system. The configuration parameters of mapping tasks and their evaluation results are recorded in the database. Then we can analyze the historical tasks and their corresponding parameter values in detail.
 
